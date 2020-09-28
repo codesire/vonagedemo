@@ -4,8 +4,8 @@ let otCore;
 const options = {
   credentials: {
     apiKey: "46932584",
-    sessionId: "1_MX40NjkzMjU4NH5-MTYwMTMwMDk0NDEyMn4wS2NaTytqUHZqVSsxcmFUUzhqUzEzdjR-fg",
-    token: "T1==cGFydG5lcl9pZD00NjkzMjU4NCZzaWc9YzI5YjA4NmMyYzU3OGE3ODgyMTYzOWYwZWQ2MjUwOWQxZDhmZTEyYzpzZXNzaW9uX2lkPTFfTVg0ME5qa3pNalU0Tkg1LU1UWXdNVE13TURrME5ERXlNbjR3UzJOYVR5dHFVSFpxVlNzeGNtRlVVemhxVXpFemRqUi1mZyZjcmVhdGVfdGltZT0xNjAxMzAwOTU2Jm5vbmNlPTAuOTE2Mjc2Mjg3NTkwNTAwNCZyb2xlPXB1Ymxpc2hlciZleHBpcmVfdGltZT0xNjAxMzA0NTU2JmluaXRpYWxfbGF5b3V0X2NsYXNzX2xpc3Q9"
+    sessionId: "2_MX40NjkzMjU4NH5-MTYwMTMwNDQwNzY4Nn5xVUtyNk1LY2hoSFlTRDlVR2JJZy9xdG1-fg",
+    token: "T1==cGFydG5lcl9pZD00NjkzMjU4NCZzaWc9NGJmNmMyN2MyOGZiOTMxMDE2ZjQ4MjIyZjE5Nzk1OTNjOWRkNmMwMzpzZXNzaW9uX2lkPTJfTVg0ME5qa3pNalU0Tkg1LU1UWXdNVE13TkRRd056WTRObjV4VlV0eU5rMUxZMmhvU0ZsVFJEbFZSMkpKWnk5eGRHMS1mZyZjcmVhdGVfdGltZT0xNjAxMzA0NDM0Jm5vbmNlPTAuNDQxNTE2NTkxNTM2NTc4NjMmcm9sZT1wdWJsaXNoZXImZXhwaXJlX3RpbWU9MTYwMzg5NjQzMyZpbml0aWFsX2xheW91dF9jbGFzc19saXN0PQ=="
   },
   // A container can either be a query selector or an HTMLElement
   // eslint-disable-next-line no-unused-vars
