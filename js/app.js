@@ -1,11 +1,12 @@
 /* global AccCore */
 
 let otCore;
+const urlParams = new URLSearchParams(window.location.search);
 const options = {
   credentials: {
     apiKey: "46998814",
-    sessionId: "2_MX40Njk5ODgxNH5-MTYwNjE0OTg5OTY2N345NHNsM0grY094VGRCdzIzaG9Pa3BnQ3J-UH4",
-    token: "T1==cGFydG5lcl9pZD00Njk5ODgxNCZzaWc9NTE0MjNlMTI3ZTQ1ZGI0ODcwOWYyMzlmNTA1MTU5MTg1ZDc0ZmZiNTpzZXNzaW9uX2lkPTJfTVg0ME5qazVPRGd4Tkg1LU1UWXdOakUwT1RnNU9UWTJOMzQ1TkhOc00wZ3JZMDk0VkdSQ2R6SXphRzlQYTNCblEzSi1VSDQmY3JlYXRlX3RpbWU9MTYwNjE0OTkxNSZub25jZT04OTE0NDkmcm9sZT1QVUJMSVNIRVI="
+    sessionId: urlParams.get('sessionId'),
+    token: urlParams.get('token')
   },
   // A container can either be a query selector or an HTMLElement
   // eslint-disable-next-line no-unused-vars
